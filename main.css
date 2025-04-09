@@ -4,11 +4,11 @@
 }
 
 body {
-    width: 480px;
+    width: 75%;
     margin: auto;
     position: relative;
     background: #181818;
-    color: #EEE;
+    color: #e4e0e0;
     font-family: DepartureMonoNerdFont-Regular;
     font-size: 20px;
     line-height: 22px;
@@ -16,8 +16,10 @@ body {
     margin-bottom: 35px;
 }
 
-small {
-    font-size: 16px;
+footer {
+    color: #EEE;
+    font-size: 14px;
+    text-align: center;
 }
 
 h1 {
@@ -53,6 +55,7 @@ li::before {
 }
 
 li {
+    left: 20px;
     position: relative;
     margin-bottom: 12px;
 }

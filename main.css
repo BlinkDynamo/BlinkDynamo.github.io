@@ -10,7 +10,7 @@ body {
     background: #181818;
     color: #EEE;
     font-family: DepartureMonoNerdFont-Regular;
-    font-size: 20px
+    font-size: 20px;
     line-height: 22px;
     margin-top: 35px;
     margin-bottom: 35px;
@@ -54,7 +54,7 @@ li::before {
 
 li {
     position: relative;
-    margin-bottom: 4px;
+    margin-bottom: 12px;
 }
 
 a:link {
